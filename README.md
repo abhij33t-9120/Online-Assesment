@@ -1,9 +1,9 @@
-# Online-Assesment
-Online Assesment Platform based on MCQ Questions.
-TechStack- HTML5, CSS, JS
-Project Setup- VS Code, Live Server(VS Extension)
+# Online-Assesment  
+Online Assesment Platform based on MCQ Questions.  
+TechStack- HTML5, CSS, JS  
+Project Setup- VS Code, Live Server(VS Extension)  
 
-Here is the video demo of the Online Assessment App:-
+Here is the video demo of the Online Assessment App:-  
 
 
 
